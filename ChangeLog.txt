@@ -1,0 +1,11 @@
+v1.2 (Currently in Beta 1)
+- Added "/deck b" commands
+- You can now reroll by clicking the block you wanna reroll
+
+v1.1
+- Added Magma
+- Added Pillar
+- Added Ice
+
+v1.0
+- Released
