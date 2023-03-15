@@ -1,11 +1,15 @@
-v1.2 (Currently in Beta 1)
+v1.2
 - Added "/deck b" commands
 - You can now reroll by clicking the block you wanna reroll
+- Added Sugar Cane
+- Added Snow
+- Added Obsidian
 
 v1.1
 - Added Magma
 - Added Pillar
 - Added Ice
+- Improved Calculation Speed
 
 v1.0
 - Released
